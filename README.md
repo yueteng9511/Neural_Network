@@ -1,0 +1,2 @@
+# Neural_Network
+這裡會存放生成式AI課程以colab完成的作品
